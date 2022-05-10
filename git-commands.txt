@@ -1,0 +1,1 @@
+connect to a remote repo: git remote add origin <git_address>
